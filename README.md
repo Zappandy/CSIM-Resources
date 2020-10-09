@@ -2,13 +2,15 @@
 
 Hello CSIMers! 
 
-On this repo, that I'll try to update and improve every month, I'll add resources that you can rely on for your work and studies in the program. Bear in mind that this is coming from someone who pursued his thesis at **specs**. Therefore, this information may be biased to the work I did at the lab. Having said that, I believe for work with an intensive coding load this can be extremely useful regardless of the lab or project you're working in. I'd like to stress that it is *impossible* to go through all of the material while pursuing the program and working on your thesis. Even so, I hope you find this handy and choose wisely which material you'd like to dive in during your time at UPF.
+On this repo, that I'll try to update and improve every month, I'll add resources that you can rely on for your work and studies in the program. Bear in mind that this is coming from someone who pursued his thesis at **specs** and who's gotten *really into* computer science. Therefore, this information may be biased to the work I did at the lab and what I've done since I graduated. Having said that, I believe for work with an intensive coding load this can be extremely useful regardless of the lab you're working in. If nonetheless, your project is more design heavy this guide may not me extremely helpful. Still I'd encourage you to read the **miscellaneous** section since in it there are general tips for the program as well as how to choose your thesis project.
+
+I'd like to stress that it is *impossible* to go through all of the material while pursuing the program and working on your thesis. Even so, I hope you find this handy and choose wisely which material you'd like to dive in during your time at UPF.
 
 Above all else, I'd like for you to see this as a resource for learning in the future if you decide to remain working in research, computer science, cognitive science or an akin field.
 
 I will divide this in different sections.
 
-- Programming
+- Programming and other tech related tips
 - Statistics and Research Methods
 - Cognitive Science
 - Math
