@@ -45,7 +45,7 @@ Both of these are great tools. I do not have resources for them, but I'm aware t
 
 ### Programming and writing your thesis
 
-"Wait, couldn't I just use google docs?" I hear you say. I mean yes, but that's not particularly efficient. Now you do NOT want to waste time learning a bevy of tools that you may not end up using in the future. HOWEVER, there are much better tools for taking notes. 
+"Wait, couldn't I just use google docs?" I mean yes, but that's not particularly efficient. Now you do NOT want to waste time learning a bevy of tools that you may not end up using in the future. HOWEVER, there are much better tools for taking notes that if you can stick by can make a huge difference in your career.
 
 ### IDEs and text editors
 
@@ -55,6 +55,9 @@ Vim, emacs, visual studio, pycharm?
 
 I'm a big proponent of computational thinking as a transferable skill for any logic based project. Whether your work is code heavy or not, if you develop this skill tackling research problems should be definitely more manageable. I highly doubt that you can focus on this during the course of the program, but it's something I encourage you to develop, especially if you want to do further work in computer science. The first Python course is amazing at that and so is [Harvard's introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
+## Statistics and Research Methods
+
+UNDER CONSTRUCTION
 
 ## Contact Info
 
