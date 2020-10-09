@@ -12,8 +12,9 @@ I will divide this in different sections.
 - Statistics and Research Methods
 - Cognitive Science
 - Math
-- Artificial intelligence
+- Artificial intelligence and Machine Learning
 - Miscellaneous tips
+- Contact info
 
 ## Programming resources
 
@@ -42,8 +43,20 @@ Python's strength is its libraries and as such be sure to implement them effecti
 
 Both of these are great tools. I do not have resources for them, but I'm aware that Matlab is great for analysis of neurophysical data and R for general data analysis. Coming across courses for the latter is easy.
 
+### Programming and writing your thesis
+
+"Wait, couldn't I just use google docs?" I hear you say. I mean yes, but that's not particularly efficient. Now you do NOT want to waste time learning a bevy of tools that you may not end up using in the future. HOWEVER, there are much better tools for taking notes. 
+
+### IDEs and text editors
+
+Vim, emacs, visual studio, pycharm?
+
 ### Computational thinking
 
 I'm a big proponent of computational thinking as a transferable skill for any logic based project. Whether your work is code heavy or not, if you develop this skill tackling research problems should be definitely more manageable. I highly doubt that you can focus on this during the course of the program, but it's something I encourage you to develop, especially if you want to do further work in computer science. The first Python course is amazing at that and so is [Harvard's introduction to computer science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
+
+## Contact Info
+
+I'll try to update this often. If you have specific questions and want to get in touch with me, you can find me on [twitter](https://twitter.com/Zappangon). Out of an abundance of caution for my privacy I won't share my email, but you can ask the head of the program Marti, professor Belen, or my Master thesis supervisor Martina for my email address and I'll gladly get back to you as soon as I can.
 
