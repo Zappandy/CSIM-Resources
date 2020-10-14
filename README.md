@@ -15,6 +15,7 @@ I will divide this in different sections.
 - Cognitive Science
 - Math
 - Artificial intelligence and Machine Learning
+- Reading papers
 - Miscellaneous tips
 - Contact info
 
@@ -60,6 +61,10 @@ I'm a big proponent of computational thinking as a transferable skill for any lo
 ## Statistics and Research Methods
 
 UNDER CONSTRUCTION
+
+## Reading papers
+
+https://www.connectedpapers.com/
 
 ## Contact Info
 
